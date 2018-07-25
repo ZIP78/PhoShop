@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- CategoryText -->
+    <style name="categoryText">
+       <item name="android:layout_weight">0.7</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+
+    </style>
+
+    <!-- Edit Text style -->
+    <style name="Edit_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Edit Text quantity style -->
+    <style name="Edit_text_quantity">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Quantity Button -->
+    <style name="quantity_buttons">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- margin around the FAB -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--margin for the list view -->
+    <dimen name="activity_inventory_main">15dp</dimen>
+</resources>

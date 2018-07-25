@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66BB6A</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#B0BEC5</color>
+
+    <!-- word background -->
+    <color name="list_word">#AED581</color>
+
+    <!-- quantity -->
+    <color name="quantity_count">#FFA000</color>
+
+    <!-- word background -->
+    <color name="list_button">#FF8A80
+    </color>
+
+<!-- listView background -->
+    <color name="background">#deb887</color>
+
+    <!--empty page second line text -->
+    <color name="empty_text">#D84315</color>
+</resources>
